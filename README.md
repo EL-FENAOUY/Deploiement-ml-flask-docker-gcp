@@ -1,6 +1,3 @@
-Les étapes pour déployer un modèle de machine learning sur le Cloud. 
-
-
 
 Ce projet démontre le déploiement de modèles de machine learning en utilisant Flask comme framework web, Docker pour la conteneurisation, et Google Cloud Platform (GCP) pour l'hébergement cloud.
 Fonctionnalités principales :
